@@ -50,6 +50,7 @@ PRODUCT_COPY_FILES += \
     vendor/htc/a52dtul/proprietary/lib/libmmcamera_interface.so:system/lib/libmmcamera_interface.so \
     vendor/htc/a52dtul/proprietary/lib/libmmjpeg_interface.so:system/lib/libmmjpeg_interface.so \
     vendor/htc/a52dtul/proprietary/lib/libmm-qcamera.so:system/lib/libmm-qcamera.so \
+    vendor/htc/a52dtul/proprietary/lib/libposteffect.so:system/lib/libposteffect.so \
     vendor/htc/a52dtul/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
     vendor/htc/a52dtul/proprietary/vendor/lib/libjpegdhw.so:system/vendor/lib/libjpegdhw.so \
     vendor/htc/a52dtul/proprietary/vendor/lib/libjpegehw.so:system/vendor/lib/libjpegehw.so \
