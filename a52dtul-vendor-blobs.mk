@@ -262,6 +262,11 @@ PRODUCT_COPY_FILES += \
     vendor/htc/a52dtul/proprietary/vendor/lib64/libmmcamera_ov13850_front.so:system/vendor/lib64/libmmcamera_ov13850_front.so \
     vendor/htc/a52dtul/proprietary/vendor/lib64/libmmcamera_ov13850_htc.so:system/vendor/lib64/libmmcamera_ov13850_htc.so \
     vendor/htc/a52dtul/proprietary/bin/qseecomd:system/bin/qseecomd \
+    vendor/htc/a52dtul/proprietary/vendor/firmware/keymaster.b00:system/vendor/firmware/keymaster.b00 \
+    vendor/htc/a52dtul/proprietary/vendor/firmware/keymaster.b01:system/vendor/firmware/keymaster.b01 \
+    vendor/htc/a52dtul/proprietary/vendor/firmware/keymaster.b02:system/vendor/firmware/keymaster.b02 \
+    vendor/htc/a52dtul/proprietary/vendor/firmware/keymaster.b03:system/vendor/firmware/keymaster.b03 \
+    vendor/htc/a52dtul/proprietary/vendor/firmware/keymaster.mdt:system/vendor/firmware/keymaster.mdt \
     vendor/htc/a52dtul/proprietary/vendor/lib64/libdrmfs.so:system/vendor/lib64/libdrmfs.so \
     vendor/htc/a52dtul/proprietary/vendor/lib64/libdrmtime.so:system/vendor/lib64/libdrmtime.so \
     vendor/htc/a52dtul/proprietary/vendor/lib64/libQSEEComAPI.so:system/vendor/lib64/libQSEEComAPI.so \
